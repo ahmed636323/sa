@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" t="width=device-width, initial-scale=1.0">
+    <meta name="viewport"suhail t="width=device-width, initial-scale=1.0">
     <title>Cab Booking Form</title>
     <style>
         body {
